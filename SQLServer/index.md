@@ -14,3 +14,7 @@
     2. Detach Database
         - [MarkDown File](./Notes/Database/2.DetachDatabase.md)
         - [Session Recordings](https://drive.google.com/drive/folders/1NOqhfepbzFouJ_0mBTJhjUF58F0fGWpk)
+
+    3. Backup Database
+        - [MarkDown File](./Notes/Database/3.BackupDatabase.md)
+        - [Session Recordings](https://drive.google.com/drive/folders/1JNxJSkS18Aw8_bPXTK_CWqiHPSLZ2VUs)
