@@ -8,4 +8,8 @@
 
 3. Attach Database
     - [MarkDown File](./Notes/1.AttachDatabase.md)
-    - [Session Recordiing](https://drive.google.com/drive/folders/157GzDc9RQJkQE3_e9WfcoshuvV67Aodl)
+    - [Session Recording](https://drive.google.com/drive/folders/157GzDc9RQJkQE3_e9WfcoshuvV67Aodl)
+
+4. Detach Database
+    - [MarkDown File](./Notes/2.DetachDatabase.md)
+    - [Session Recordings](https://drive.google.com/drive/folders/1NOqhfepbzFouJ_0mBTJhjUF58F0fGWpk)
